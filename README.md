@@ -1,4 +1,4 @@
-- 👋 Yo! I’m @zaldevs
+- 👋 Yo! I’m @Zalderaan
 - 👀 I'm a beginner looking for learning exerience to enhance my knowledge in programming.
 - 🌱 Right now, I'm learning C and planning to start on HTML & CSS soon for web development.
 - 🤝 I'm willing to participate on any project to learn with others and share what I know if possible.
